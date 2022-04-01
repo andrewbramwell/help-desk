@@ -1,0 +1,278 @@
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://andrewbramwell.github.io/help/"
+# theme
+theme = "dot-hugo"
+# site title
+title = "Voucherstore Help Center"
+# disable language
+disableLanguages = []
+# google analytics
+googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = "images/logo.png"
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = "images/logo-white.png"
+# when logo is empty, it will shown your site title
+
+# OpenGraph / Twitter Card metadata
+description = "Find answers instantly or lodge a support ticket."
+author = "Voucherstore"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+
+# customize color
+primary_color = "#32bcad"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "urbanist" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+name = "Facebook"
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+name = "Twitter"
+link = "#"
+
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+name = "Github"
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+name = "Linkedin"
+link = "#"
+
+################################ English Language ######################
+[Languages.en]
+languageName = "EN"
+languageCode = "en-us"
+weight = 1
+copyright = "All Rights Reserved © 2022 Voucher Store Service Co., Ltd."
+
+# banner
+[Languages.en.params.banner]
+title = "Help Center & Knowledge Base"
+subtitle = "Find answers instantly with our searchable knowledge base."
+bg_image = "images/banner.jpg"
+placeholder = "Search key words here"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Couldn't find what you are looking for?"
+content = "Enter a support ticket and we will be in touch as soon as possible."
+# call to action button
+[Languages.en.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact/"
+
+
+################## english navigation #################
+[[Languages.en.menu.main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Faq"
+url = "faq/"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "contact"
+url = "contact/"
+weight = 3
+
+# Dropdown menu
+[[Languages.en.menu.main]]
+weight = 4
+name = "docs"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Store Appearance"
+  url = "store-appearance/"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Analytics"
+  url = "analytics/"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Email"
+  url = "email/"
+  weight = 3
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Going Live"
+  url = "going-live/"
+  weight = 4
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Products"
+  url = "products/"
+  weight = 5
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Promotions"
+  url = "promotions/"
+  weight = 6
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Quick Sell"
+  url = "quick-sell/"
+  weight = 7
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Users"
+  url = "users/"
+  weight = 8
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Voucher Delivery"
+  url = "voucher-delivery/"
+  weight = 9
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Voucher Status"
+  url = "voucher-status/"
+  weight = 10
+
+
+################################### Franch Language ######################
+[Languages.th]
+languageName = "TH"
+languageCode = "th-th"
+weight = 2
+copyright = "All Rights Reserved © 2022 Voucher Store Service Co., Ltd."
+
+# banner
+[Languages.th.params.banner]
+title = "ศูนย์ช่วยเหลือและฐานความรู้"
+subtitle = "ค้นหาคำตอบได้ทันทีด้วยฐานความรู้ที่ค้นหาได้ของเรา"
+bg_image = "images/banner.jpg"
+placeholder = "ค้นหาคำสำคัญที่นี่"
+
+# call to action
+[Languages.th.params.cta]
+enable = true
+title = "ไม่พบสิ่งที่คุณกำลังมองหา?"
+content = "ใส่ตั๋วสนับสนุนและเราจะติดต่อกลับโดยเร็วที่สุด"
+# call to action button
+[Languages.th.params.cta.button]
+enable = true
+label = "ติดต่อ"
+link = "contact/"
+
+
+################## thai navigation #################
+
+
+[[Languages.th.menu.main]]
+name = "คำถามที่พบบ่อย"
+url = "faq/"
+weight = 2
+
+[[Languages.th.menu.main]]
+name = "ติดต่อ"
+url = "contact/"
+weight = 3
+
+# Dropdown menu
+[[Languages.th.menu.main]]
+weight = 4
+name = "เอกสาร"
+hasChildren = true
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "ลักษณะร้าน"
+  url = "store-appearance/"
+  weight = 1
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "การวิเคราะห์"
+  url = "analytics/"
+  weight = 2
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "อีเมล"
+  url = "email/"
+  weight = 3
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "กำลังเริ่มต้นการใช้งาน"
+  url = "going-live/"
+  weight = 4
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "สินค้า"
+  url = "products/"
+  weight = 5
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "โปรโมชั่น"
+  url = "promotions/"
+  weight = 6
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "ขายด่วน"
+  url = "quick-sell/"
+  weight = 7
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "ผู้ใช้"
+  url = "users/"
+  weight = 8
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "การจัดส่งบัตรกำนัล"
+  url = "voucher-delivery/"
+  weight = 9
+
+  [[Languages.th.menu.main]]
+  parent = "เอกสาร"
+  name = "สถานะบัตรกำนัล"
+  url = "voucher-status/"
+  weight = 10
