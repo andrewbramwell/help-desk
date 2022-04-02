@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 ตั้งค่าร้านค้าของคุณเป็น 'live' และเริ่มขายสินค้าของคุณ
+
+![image example](going-live.png "image")
