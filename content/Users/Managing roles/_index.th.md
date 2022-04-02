@@ -29,4 +29,4 @@ keywords: []
 
 ![image example](img-3.jpg "image")
 
-เมื่อบันทึกแล้ว คุณจะสามารถใช้บทบาทใหม่นี้ [เมื่อสร้างบัญชี](/help/th/users/managing-users/) "Bar Staff" เพิ่มเติม
+เมื่อบันทึกแล้ว คุณจะสามารถใช้บทบาทใหม่นี้ [เมื่อสร้างบัญชี](/th/users/managing-users/) "Bar Staff" เพิ่มเติม
