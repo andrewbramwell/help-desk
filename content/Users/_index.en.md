@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Learn how to manage users. Including setting permissions and resetting passwords.
+
+![image example](users.png "image")
