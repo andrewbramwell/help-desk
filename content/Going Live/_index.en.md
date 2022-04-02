@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Set your store to 'live' and start selling your products.
+
+![image example](going-live.png "image")
