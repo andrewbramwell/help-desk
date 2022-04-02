@@ -15,6 +15,6 @@ There are a few requirements in place to make sure that you are 100% ready befor
 
 To see the requirement list, from the left hand navigation click SETTINGS > STORE SETTINGS > [Go live] tab
 
-Explanations on how to complete each of these requirements are linked [here](/help/going-live/connect-a-payment-gateway/) and [here](/going-live/setting-store-information/).
+Explanations on how to complete each of these requirements are linked [here](/going-live/connect-a-payment-gateway/) and [here](/going-live/setting-store-information/).
 
 Once all requirements are completed, select ‘Go live’ and click [Update]. Your store is now live and you can accept payments.
