@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 สร้างและแก้ไขสินค้าที่ร้านค้าของคุณ
+
+![image example](products.png "image")
