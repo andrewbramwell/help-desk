@@ -10,7 +10,7 @@ keywords: [""]
 
 Rather than being purchased for a specific experience, monetary vouchers offer more choice to the customer. It is a fixed ฿ value voucher which can be exchanged for items of equivalent value, at your venue.
 
-Before creating a monetary voucher, you need to create a new product following the steps outlined [here](/help/products/creating-a-product/). Prior to saving, click the [Monetary Options] button.
+Before creating a monetary voucher, you need to create a new product following the steps outlined [here](/products/creating-a-product/). Prior to saving, click the [Monetary Options] button.
 
 ![image example](img-12.jpg "image")
 
