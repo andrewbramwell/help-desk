@@ -11,7 +11,7 @@ keywords: [""]
 
 From the left hand navigation click SETTINGS > STORE SETTINGS > [Store information]
 
-This page requires your business details prior to ‘Going Live’. Once you have completed all the necessary fields the [going live checklist](/help/going-live/going-live-checklist/) will automatically update.
+This page requires your business details prior to ‘Going Live’. Once you have completed all the necessary fields the [going live checklist](/going-live/going-live-checklist/) will automatically update.
 
 In the example below, ‘Show’ is selected for the email, address and phone number.
 
