@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Learn how to create and edit products at your store.
+
+![image example](products.png "image")
