@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 เรียนรู้วิธีเปลี่ยนสถานะของบัตรกำนัลที่ใช้งานอยู่
+
+![image example](voucher-status.png "image")
