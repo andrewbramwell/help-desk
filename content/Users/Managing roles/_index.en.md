@@ -28,4 +28,4 @@ Note: View orders must always be ticked to allow a user type to redeem a voucher
 
 ![image example](img-3.jpg "image")
 
-Once saved, you will be able to use this new role when [creating](/help/users/managing-users/) additional ‘Bar Staff’ accounts.
+Once saved, you will be able to use this new role when [creating](/users/managing-users/) additional ‘Bar Staff’ accounts.
