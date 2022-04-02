@@ -36,6 +36,6 @@ You can set qualifying criteria, for example Minimum Spend. And offer either per
 
 ‘Per product’ is a discount applied to a specific product only.
 
-‘Free Product’ is described in more detail [here](/help/promotions/free-products/).
+‘Free Product’ is described in more detail [here](/promotions/free-products/).
 
 6. Depending on which of the above checkout offers you choose, complete the corresponding fields and click [Create] to save the promo code.
