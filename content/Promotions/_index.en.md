@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Create and manage many types of promotions. From coupons to % discounts and even free products.
+
+![image example](promotions.png "image")
