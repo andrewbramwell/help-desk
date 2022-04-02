@@ -6,3 +6,5 @@ description: "Learn how to tailor the emails sent from your store to your custom
 type : "docs"
 ---
 Learn how to tailor the emails sent from your store to your customers.
+
+![image example](email.png "image")
