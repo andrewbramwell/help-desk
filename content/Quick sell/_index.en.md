@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Use the quick sell feature to allow employees to place orders and manage discounts on behalf of customers.
+
+![image example](quick-sell.png "image")
