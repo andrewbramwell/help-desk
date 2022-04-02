@@ -15,6 +15,6 @@ keywords: [""]
 
 หากต้องการดูรายการข้อกำหนด จากการนำทางด้านซ้ายมือ ให้คลิก SETTINGS > STORE SETTINGS > แท็บ [Go live]
 
-คำอธิบายเกี่ยวกับวิธีการทำให้ข้อกำหนดแต่ละข้อสมบูรณ์มีการเชื่อมโยง [ที่นี่](/help/th/going-live/connect-a-payment-gateway/) และ [ที่นี่](/help/th/going-live/setting-store-information/)
+คำอธิบายเกี่ยวกับวิธีการทำให้ข้อกำหนดแต่ละข้อสมบูรณ์มีการเชื่อมโยง [ที่นี่](/th/going-live/connect-a-payment-gateway/) และ [ที่นี่](/th/going-live/setting-store-information/)
 
 เมื่อข้อกำหนดทั้งหมดเสร็จสิ้น ให้เลือก "Go live" แล้วคลิก [Update] ร้านค้าของคุณใช้งานได้แล้ว และคุณสามารถรับการชำระเงินได้
