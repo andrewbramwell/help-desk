@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 เปลี่ยนรูปลักษณ์ร้านค้าของคุณให้เข้ากับแบรนด์ของคุณ
+
+![image example](store-apperance.png "image")
