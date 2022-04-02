@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Learn how to validate your analytics with Voucherstore and collect it with Google Analytics.
+
+![image example](analytics.png "image")
