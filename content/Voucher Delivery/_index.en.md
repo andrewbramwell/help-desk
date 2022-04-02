@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Learn how to deliver orders to your customers quickly and efficiently.
+
+![image example](voucher-delivery.png "image")
