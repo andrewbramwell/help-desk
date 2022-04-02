@@ -12,9 +12,9 @@ keywords: [""]
 
 We leverage Google’s analytics capabilities so you can monitor how customers access and interact with your site. This can provide valuable insights about where you are doing well as well as improvements that you could make to improve your sales.
 
-Google Analytics is an industry leading analytics system that provides information about where site visitors are coming from, how long they spend on your site, what they are doing on there, as well as many other customisable metrics. Find out more here.
+Google Analytics is an industry leading analytics system that provides information about where site visitors are coming from, how long they spend on your site, what they are doing on there, as well as many other customisable metrics. Find out more [here](https://marketingplatform.google.com/about/analytics/).
 
-We use Google Tag Manager to collect data and pass information for Analytics to processing and display. Tag Manager collects this data by listening for events that your Voucherstore store emits, such as a product being added to a basket, or an order being completed. You can also add in your own custom events to track if there are other specific actions that you want to monitor. Find out more here.
+We use Google Tag Manager to collect data and pass information for Analytics to processing and display. Tag Manager collects this data by listening for events that your Voucherstore store emits, such as a product being added to a basket, or an order being completed. You can also add in your own custom events to track if there are other specific actions that you want to monitor. Find out more [here](https://marketingplatform.google.com/about/tag-manager/).
 
 
 **Setting up Analytics (If you haven’t already)**
