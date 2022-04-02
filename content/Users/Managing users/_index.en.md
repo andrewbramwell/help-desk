@@ -20,6 +20,6 @@ Voucherstore allows you to create, delete or modify accounts for your team membe
 
 ![image example](img-2.jpg "image")
 
-Voucherstore already has preset permissions for default roles. If you want to edit these permissions, or create a custom role, [read this article first](/help/users/managing-roles/).
+Voucherstore already has preset permissions for default roles. If you want to edit these permissions, or create a custom role, [read this article first](/users/managing-roles/).
 
 3. Otherwise, select the permissions you want to enable for the new user, fill in their username and password, and then click [Create].
