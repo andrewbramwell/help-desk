@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 เรียนรู้วิธีตรวจสอบการวิเคราะห์ของคุณกับ Voucherstore และรวบรวมกับ Google Analytics
+
+![image example](analytics.png "image")
