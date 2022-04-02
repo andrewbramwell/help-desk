@@ -24,9 +24,9 @@ There are a number of fields to take into consideration when creating a voucher.
 --- | ---
 **Name** | This is the name of your product, this will be shown on any vouchers as well as on your website.
 **URL**| This will be a direct link to your product. You are able to change this manually, although, it will be created by default after inputting the name. 
-**Categories**| Here you can assign a category to your product. This will help people to find this product if they decide to filter via categories on your homepage. Find out how to create a category [here](/help/products/creating-a-category/).
+**Categories**| Here you can assign a category to your product. This will help people to find this product if they decide to filter via categories on your homepage. Find out how to create a category [here](/products/creating-a-category/).
 **Price**| This will be the price of the product in the currency you have set your store to use by default.
-**Monetary**| Create a monetary voucher that will be used as a value in your currency. Learn more about how to do this [here](/help/products/monetary-vouchers/).
+**Monetary**| Create a monetary voucher that will be used as a value in your currency. Learn more about how to do this [here](/products/monetary-vouchers/).
 **Number of people**| If your product has a maximum or specific number of people that can redeem it, you would define it here. For example, a product called ‘Afternoon Tea for Two’ would have number of people set to ‘2’.
 **Status**| **Public** – Your product will be visible and is available for purchase straight away. <br>**Link Only** – Your product will not show to visitors on your website, it is available for purchase, but only to people that have the direct link to that product. <br>**Private** – Only staff members can see this product, it can be added to only the staff checkout for purchase. <br>**Draft** – Product cannot be purchased, it will be saved in the products list in the dashboard for you to edit at a later date.
 **Full Description**| This description will be shown on the product’s page, it will not be shown on the homepage(s) inside the product tile.
