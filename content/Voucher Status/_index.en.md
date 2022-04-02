@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Learn how to change the status of an active voucher.
+
+![image example](voucher-status.png "image")
