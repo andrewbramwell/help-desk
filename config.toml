@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://chipper-twilight-fa2442.netlify.app/"
+baseURL = "https://www.help.voucherstore.io/"
 # theme
 theme = "dot-hugo"
 # site title
