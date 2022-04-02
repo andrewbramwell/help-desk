@@ -7,3 +7,5 @@ type : "docs"
 ---
 
 Change the look of your store to match your brand.
+
+![image example](store-apperance.png "image")
