@@ -10,44 +10,51 @@
         <form
           action="https://formspree.io/f/mbjwazel"
           method="POST"
+          enctype="multipart/form-data"
         >
 
         <input required
           type="text"
           id="company-name"
           name="company-name"
-          placeholder="Company Name"
+          placeholder="*Company Name"
           class="form-control mb-4 shadow rounded-0"
 
         />
-          <input
+          <input required
             type="text"
             id="name"
             name="name"
-            placeholder="Name"
+            placeholder="*Name"
             class="form-control mb-4 shadow rounded-0"
           />
-          <input
+          <input required
             type="email"
             id="mail"
             name="mail"
-            placeholder="Email"
+            placeholder="*Email"
             class="form-control mb-4 shadow rounded-0"
           />
-          <input
+          <input required
             type="text"
             id="subject"
             name="subject"
-            placeholder="Subject"
+            placeholder="*Subject"
             class="form-control mb-4 shadow rounded-0"
           />
-          <textarea
+          <textarea required
             name="message"
             id="message"
-            placeholder="Message"
+            placeholder="*How can we help you?"
             class="form-control mb-4 shadow rounded-0"
           ></textarea>
-          <button type="submit" value="send" class="btn btn-primary"> Send
+          <label for="myfile">To select multiple files, hold down the Ctrl or Command key while selecting:</label>
+          <br>
+          <input type="file" id="myfile" name="myfile" accept="image/png, image/jpeg" multiple>
+          <br>
+          <br>
+          <br>
+          <button type="submit" value="send" class="btn btn-primary"> send
             {{ i18n "send" }}
           </button>
         </form>
