@@ -297,7 +297,8 @@ pre {
 .navbar .nav-item .nav-link {
   text-transform: uppercase;
   padding: 10px 15px !important;
-  font-size: 17px;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .navbar .dropdown:hover .dropdown-menu {
