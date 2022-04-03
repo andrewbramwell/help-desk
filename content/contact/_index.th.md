@@ -1,4 +1,4 @@
 ---
-title: "Submit A Help Request"
+title: "ส่งคำขอความช่วยเหลือ"
 draft: false
 ---
