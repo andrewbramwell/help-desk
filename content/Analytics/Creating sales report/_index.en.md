@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: [""]
 ---
-Voucherstore lets you create sales reports and have them automatically sent to an email address.
+Voucherstore lets you create sales reports and have them automatically sent to an email address
 
 From the left hand navigation select ORDERS to pull up the order page.
 
