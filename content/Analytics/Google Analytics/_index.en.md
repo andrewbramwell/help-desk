@@ -28,7 +28,7 @@ The first step is to set up your Google Tag Manager to listen for the events emi
 5. After clicking Create, dismiss the pop-up that appears titled “Install Google Tag Manager”.
 
 
-You now have a Google Tag Manager container set up. We now need to tell the container which events it should listen out for. Voucherstore provides a template container that includes all of the e-commerce tracking that we provide. Download the file from the link below by right clicking and pressing ‘save link as’. Download Here
+You now have a Google Tag Manager container set up. We now need to tell the container which events it should listen out for. Voucherstore provides a template container that includes all of the e-commerce tracking that we provide. Download the file from the link below by right clicking and pressing ‘save link as’. [Download Here](https://www.help.voucherstore.io/template-container.txt)
 
 1. On Google Tag Manager, choose the Admin option on the navigation bar.
 2. Click on the Import Container option.
